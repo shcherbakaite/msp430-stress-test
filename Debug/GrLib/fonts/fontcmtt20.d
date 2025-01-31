@@ -1,7 +1,7 @@
 # FIXED
 
 GrLib/fonts/fontcmtt20.obj: ../GrLib/fonts/fontcmtt20.c
-GrLib/fonts/fontcmtt20.obj: C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h
+GrLib/fonts/fontcmtt20.obj: C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h
 GrLib/fonts/fontcmtt20.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdint.h
 GrLib/fonts/fontcmtt20.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/_ti_config.h
 GrLib/fonts/fontcmtt20.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/linkage.h
@@ -17,7 +17,7 @@ GrLib/fonts/fontcmtt20.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.
 
 ../GrLib/fonts/fontcmtt20.c:
 
-C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h:
+C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h:
 
 C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdint.h:
 

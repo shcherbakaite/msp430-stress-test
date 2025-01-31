@@ -6,7 +6,7 @@ Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/ccs_base/msp430/include/msp430
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/ccs_base/msp430/include/in430.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/intrinsics.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/intrinsics_legacy_undefs.h
-Lcd_Driver/Template_Driver.obj: C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h
+Lcd_Driver/Template_Driver.obj: C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdint.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/_ti_config.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/linkage.h
@@ -20,7 +20,7 @@ Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_2
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdbool.h
 Lcd_Driver/Template_Driver.obj: C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/assert.h
 Lcd_Driver/Template_Driver.obj: ../Lcd_Driver/Template_Driver.h
-Lcd_Driver/Template_Driver.obj: C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h
+Lcd_Driver/Template_Driver.obj: C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h
 
 ../Lcd_Driver/Template_Driver.c:
 
@@ -34,7 +34,7 @@ C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/intrinsics.h:
 
 C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/intrinsics_legacy_undefs.h:
 
-C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h:
+C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h:
 
 C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdint.h:
 
@@ -62,5 +62,5 @@ C:/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/assert.h:
 
 ../Lcd_Driver/Template_Driver.h:
 
-C:/Users/vlad.shcherbakov/workspace_ccstheia/Stress\ Test/GrLib/grlib/grlib.h:
+C:/Users/vlads/Sources/msp430-stress-test/GrLib/grlib/grlib.h:
 
